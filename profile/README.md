@@ -6,9 +6,6 @@ Templates with built-in workflow to GitHub pages.
 ### [eleventy-chapbook](https://github.com/tepiton/eleventy-chapbook)  [•](https://tepiton.com/eleventy-chapbook/)
 An Eleventy v3 starter for chaptered literary sites. Designed for serialized fiction, novellas, and other long-form prose.
 
-### [eleventy-folio](https://github.com/tepiton/eleventy-folio) [•](https://tepiton.com/eleventy-folio/)
-An Eleventy v3 starter for chaptered literary sites. Polished defaults, extra features.
-
 ### [eleventy-pamphlet](https://github.com/tepiton/eleventy-pamphlet) [•](https://tepiton.com/eleventy-pamphlet/)
 An Eleventy v3 starter for short literary works: novellas, single-volume fiction, pamphlets. Minimal structure with two layouts.
 
