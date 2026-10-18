@@ -2,6 +2,8 @@
 
 Templates with built-in workflow to GitHub pages.
 
+<!-- templates: everything below is also the tepiton.com index -->
+
 
 ### [eleventy-chapbook](https://github.com/tepiton/eleventy-chapbook)  [•](https://tepiton.com/eleventy-chapbook/)
 An Eleventy v3 starter for chaptered literary sites. Designed for serialized fiction, novellas, and other long-form prose.
@@ -27,19 +29,11 @@ A pandoc-based single-page Markdown site with no SSG toolchain.
 ### [pandoc-resume](https://github.com/tepiton/pandoc-resume)  [•](https://tepiton.com/pandoc-resume/)
 A resume site built from one Markdown file. A GitHub Action renders it to HTML, PDF, DOCX, and plain text, and publishes them behind an index page with your name, objective, and contact details.
 
-### [mimeo](https://github.com/tepiton/mimeo) [•](https://tepiton.com/mimeo/)
+### [mimeo](https://github.com/tepiton/mimeo) [•](https://mimeo.lol/)
 Placeholder template that shows the `s i t e n a m e`
 
 ### [laptopistan](https://github.com/tepiton/laptopistan)  [•](https://tepiton.com/laptopistan/)
 Placeholder template that displays a picture from picsum.photos
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### [markdown-it-simple](https://github.com/tepiton/markdown-it-simple)  [•](https://tepiton.com/markdown-it-simple/)
+A folder of Markdown files turned into a static site by one build script using markdown-it, with no static site generator.

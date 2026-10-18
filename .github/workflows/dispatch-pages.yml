@@ -1,0 +1,18 @@
+name: Rebuild tepiton.com
+
+# profile/README.md is the template list for both the org profile and
+# the tepiton.com index; tepiton.github.io pulls it in at build time.
+on:
+  push:
+    branches: ["main"]
+    paths: ["profile/README.md"]
+  workflow_dispatch:
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger the tepiton.github.io Pages build
+        run: gh workflow run pages.yml -R tepiton/tepiton.github.io
+        env:
+          GH_TOKEN: ${{ secrets.PAGES_DISPATCH_TOKEN }}
