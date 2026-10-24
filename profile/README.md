@@ -4,6 +4,20 @@ Templates with built-in workflow to GitHub pages.
 
 <!-- templates: everything below is also the tepiton.com index -->
 
+### [mimeo](https://github.com/tepiton/mimeo) [•](https://mimeo.lol/)
+Placeholder template that just shows the <br> `s i t e n a m e`
+
+### [laptopistan](https://github.com/tepiton/laptopistan)  [•](https://tepiton.com/laptopistan/)
+Placeholder template that displays a picture from picsum.photos
+
+### [markdown-it-simple](https://github.com/tepiton/markdown-it-simple)  [•](https://tepiton.com/markdown-it-simple/)
+A folder of Markdown files turned into a static site by one build script using markdown-it, with no static site generator.
+
+### [pandoc-simple](https://github.com/tepiton/pandoc-simple)  [•](https://tepiton.com/pandoc-simple/)
+A pandoc-based single-page Markdown site with no SSG toolchain.
+
+### [pandoc-resume](https://github.com/tepiton/pandoc-resume)  [•](https://tepiton.com/pandoc-resume/)
+A resume site built from one Markdown file. A GitHub Action renders it to HTML, PDF, DOCX, and plain text, and publishes them behind an index page with your name, objective, and contact details.
 
 ### [eleventy-chapbook](https://github.com/tepiton/eleventy-chapbook)  [•](https://tepiton.com/eleventy-chapbook/)
 An Eleventy v3 starter for chaptered literary sites. Designed for serialized fiction, novellas, and other long-form prose.
@@ -22,18 +36,3 @@ A product landing page template built with Eleventy v3: a section-composed homep
 
 ### [eleventy-service](https://github.com/tepiton/eleventy-service)  [•](https://tepiton.com/eleventy-service/)
 A service business landing page template built with Eleventy v3: a section-composed homepage where every band of the page is a Markdown file.
-
-### [pandoc-simple](https://github.com/tepiton/pandoc-simple)  [•](https://tepiton.com/pandoc-simple/)
-A pandoc-based single-page Markdown site with no SSG toolchain.
-
-### [pandoc-resume](https://github.com/tepiton/pandoc-resume)  [•](https://tepiton.com/pandoc-resume/)
-A resume site built from one Markdown file. A GitHub Action renders it to HTML, PDF, DOCX, and plain text, and publishes them behind an index page with your name, objective, and contact details.
-
-### [mimeo](https://github.com/tepiton/mimeo) [•](https://mimeo.lol/)
-Placeholder template that shows the `s i t e n a m e`
-
-### [laptopistan](https://github.com/tepiton/laptopistan)  [•](https://tepiton.com/laptopistan/)
-Placeholder template that displays a picture from picsum.photos
-
-### [markdown-it-simple](https://github.com/tepiton/markdown-it-simple)  [•](https://tepiton.com/markdown-it-simple/)
-A folder of Markdown files turned into a static site by one build script using markdown-it, with no static site generator.
