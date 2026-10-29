@@ -1,3 +1,3 @@
 # .github
 
-Templates for sites hosted on GitHuv pages.
+Templates for sites hosted on GitHub Pages.
