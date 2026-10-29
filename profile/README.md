@@ -1,10 +1,12 @@
-## Mimeo sites
+## tepiton
 
-Templates with built-in workflow to GitHub pages.
+Templates with built-in workflow to GitHub pages. Designed for use with [pborenstein/mimeo](https://github.com/pborenstein/mimeo). 
+
+Sites built with mimeo and these templates are in the [mimeo-sites](https://github.com/mimeo-sites) organization.
 
 <!-- templates: everything below is also the tepiton.com index -->
 
-### [mimeo](https://github.com/tepiton/mimeo) [•](https://mimeo.lol/)
+### [mimeo](https://github.com/tepiton/mimeo) [•](https://tepiton.com/mimeo/)
 Placeholder template that just shows the <br> `s i t e n a m e`
 
 ### [laptopistan](https://github.com/tepiton/laptopistan)  [•](https://tepiton.com/laptopistan/)
